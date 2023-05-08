@@ -1,4 +1,4 @@
-# **Fellow** <𝚌𝚘𝚍𝚎𝚛𝚜/>, **welcome!** 😊👩‍💻
+# **Fellow** <𝚌𝚘𝚍𝚎𝚛𝚜/>, **welcome!** <img src="https://github.com/natalie8052/natalie8052/blob/main/hi.gif" width="100x"> 😊👩‍💻
 
 ![](https://github.com/user/banner.png)
 
