@@ -18,7 +18,7 @@ I'm currently seeking data analyst or related positions worldwide 💼🌐 *(as 
 
 <!-- Social badges section -->
 <div id="badges">
-  <a href="https://www.linkedin.com/in/natalie8052/">
+  <a href="https://www.linkedin.com/in/natalieanalyst/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" title="Connect with me on LinkedIn"/>
     </a>
   <a href="mailto:natalie.analyst@gmail.com">
